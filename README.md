@@ -1,5 +1,8 @@
 # 🚀 Gestión de Candidatos API
 
+> 📺 **VIDEO DEMO:** Puedes ver la API funcionando y conectada a Base de Datos en este video corto:
+> [**Ver Demostración en YouTube**](https://youtu.be/tebnehzpJYc)
+
 API RESTful desarrollada con **.NET 9** para la administración integral de procesos de reclutamiento (Vacantes, Postulantes y Entrevistas).
 
 > **Nota:** Este proyecto fue desarrollado utilizando **ADO.NET puro**, cumpliendo con los requisitos técnicos de alto rendimiento.
@@ -26,7 +29,7 @@ El proyecto sigue una **Arquitectura Limpia** para garantizar la escalabilidad y
 
 ---
 
-## 🗄️ Base de Datos y SQL
+
 
 ## 🗄️ Base de Datos y SQL
 
@@ -64,7 +67,7 @@ Nota: Si usas SQL Express, cambia Server=. por Server=.\SQLEXPRESS.
 
 ## 4. Ejecutar la API
 
-Abre el proyecto en **Visual Studio 2022** (o versión compatible con .NET 7/6 según tu proyecto).
+Abre el proyecto en **Visual Studio 2022** (o versión compatible con .NET 8/9 según tu proyecto).
 
 Presiona **F5** o ejecuta el proyecto. La interfaz de **Swagger** se abrirá automáticamente en tu navegador para probar los endpoints.
 
